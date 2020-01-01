@@ -5,9 +5,13 @@ docker version
 ```
 pull image
 ```
-docker pull <IMAGE>
+docker pull IMAGE
 ```
 list docker image
 ```
 docker images
+```
+docker run
+```
+docker run [options] IMAGE
 ```
