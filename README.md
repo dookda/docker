@@ -5,7 +5,7 @@ docker version
 ```
 pull image
 ```
-docker pull image_name
+docker pull <IMAGE>
 ```
 list docker image
 ```
