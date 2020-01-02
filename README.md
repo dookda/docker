@@ -35,3 +35,8 @@ docker exec -it [ชื่อ image] bash
 ```
 exit
 ```
+
+mouth drive
+```
+docker run --name mysql-db -v D:/dockershare/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=111111 -d mysql
+```
